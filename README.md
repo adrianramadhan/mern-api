@@ -7,8 +7,6 @@ npm install
 <br>
 npm run start
 
-<br>
-
 ### Method GET untuk Mengambil semua Blog Post
 http://localhost:4000/v1/blog/post
 
