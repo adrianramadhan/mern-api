@@ -1,7 +1,11 @@
 # mern-api
 
-### Method GET untuk Mengambil Semua Blog Post
-http://localhost:4000/v1/blog/posts
+## Untuk Memulai Server
+cd mern-api
+<br>
+npm install
+<br>
+npm run start
 
 <br>
 
