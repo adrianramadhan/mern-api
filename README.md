@@ -10,6 +10,11 @@ npm run start
 <br>
 
 ### Method GET untuk Mengambil Blog Post berdasarkan ID
+http://localhost:4000/v1/blog/post
+
+<br>
+
+### Method GET untuk Mengambil Blog Post berdasarkan ID
 http://localhost:4000/v1/blog/post/{ID}
 
 <br>
